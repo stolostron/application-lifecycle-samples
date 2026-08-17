@@ -34,6 +34,15 @@ entries:
   helloworld-helm:
   - apiVersion: v1
     appVersion: "1.0"
+    created: "2026-08-17T16:02:00.948268-04:00"
+    description: A sample hello world helm chart
+    digest: 1224398344ad1b4058991c987b2afe2194bb25b296420b4412f131a10bbb7068
+    name: helloworld-helm
+    urls:
+    - https://raw.githubusercontent.com/stolostron/application-lifecycle-samples/main/helloworld-helm-3.1.0.tgz
+    version: 3.1.0
+  - apiVersion: v1
+    appVersion: "1.0"
     created: "2024-03-14T10:52:30.094033-04:00"
     description: A sample hello world helm chart
     digest: 63c69e621d89c8e295302371307a740d09b70075e5215845dd994ea68473a2ab
